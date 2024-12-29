@@ -1,9 +1,9 @@
-#                         _   _       _  __ _           
-#                        | | | |_ __ (_)/ _(_) ___ _ __ 
-#                        | | | | '_ \| | |_| |/ _ \ '__|
-#                        | |_| | | | | |  _| |  __/ |   
-#                         \___/|_| |_|_|_| |_|\___|_|   
-#                                                       
+                         _   _       _  __ _           
+                        | | | |_ __ (_)/ _(_) ___ _ __ 
+                        | | | | '_ \| | |_| |/ _ \ '__|
+                        | |_| | | | | |  _| |  __/ |   
+                         \___/|_| |_|_|_| |_|\___|_|   
+                                                       
 
 
 Unifier is a Python-based utility that generates a detailed textual representation of a directory structure and extracts the content of files in a project. It is designed to respect `.gitignore` and `.unifier.ignore` files, skip hidden files and directories, and avoid processing binary files.
