@@ -73,6 +73,10 @@ You can customize the behavior of the utility using two files:
 logs/
 ```
 
+## Changelog
+
+You can view the complete changelog for this project [here](Docs/Changelogs.md).
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
