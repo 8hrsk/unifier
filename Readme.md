@@ -75,7 +75,7 @@ logs/
 
 ## Changelog
 
-You can view the complete changelog for this project [here](Docs/Changelogs.md).
+You can view the complete changelog for this project [here](Docs/Changelog.md).
 
 ## Contributing
 
