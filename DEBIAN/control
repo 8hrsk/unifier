@@ -1,0 +1,8 @@
+Package: Unifier
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: 8hoursking insanitykape@gmail.com
+Description: Creates a txt file with a project structure and project fies
